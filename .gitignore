@@ -1,0 +1,7 @@
+# Dictionaries
+/.idea/
+/.vscode/
+
+# Files
+*.temp
+*.tmp
