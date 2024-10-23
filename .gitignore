@@ -1,6 +1,7 @@
 # Dictionaries
 /.idea/
 /.vscode/
+/node_modules/
 
 # Files
 *.temp
