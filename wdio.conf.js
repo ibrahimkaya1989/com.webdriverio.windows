@@ -21,7 +21,7 @@ exports.config = {
 
     hostname: '127.0.0.1', // Appium default host
     port: 4723, // Appium default port
-    path: '/wd/hub', // Appium default path for 1.22.3
+    path: '/wd/hub', // Appium default path for v1.22.3
     
 
     /* Appium Configuration for v1.22.3 */
